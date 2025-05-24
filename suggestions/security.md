@@ -13,3 +13,8 @@
 
 ### 安全建议
 ![安全](../images/security-suggestion.jpg)
+
+## 推荐资料
+- [CISSP Github学习资料](https://github.com/jefferywmoore/CISSP-Study-Resources)
+- [CISSP 备考资料](../materials/security/index.md)
+

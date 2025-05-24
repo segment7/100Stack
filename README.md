@@ -13,6 +13,7 @@ Let's learn together
 - [小程序](./suggestions/mini-program.md)
 - [Java后端](./suggestions/back-end-java.md)
 - [Golang后端](./suggestions/back-end-golang.md)
+- [Python](./suggestions/python.md)
 - [数据库](./suggestions/database.md)
 - [全栈教程](./suggestions/full-stack.md)
 - [AI](./suggestions/AI.md)
@@ -26,6 +27,8 @@ Let's learn together
 - [C语言](./suggestions/C.md)
 - [算法](./suggestions/algorithm.md)
 - [测试](./suggestions/qa.md)
+- [机器人](./suggestions/robots.md)
+- [区块链](./suggestions/blockchain.md)
 - [面试](./suggestions/interviews.md)
 
 ### 工具类
