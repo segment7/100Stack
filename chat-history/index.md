@@ -25,5 +25,5 @@
 | Overleaf Copilot | 该插件可以在VSCode或Cursor中安装，支持选中文字进行修改润色，保存后Overleaf同步刷新。 | VSCode, Cursor | 适用于需要在Overleaf中进行协作和文档编辑的用户。 | [Overleaf](https://www.overleaf.com/) | Silen |
 | NoteGPT | 该Chrome插件可以将视频转成文字并进行总结，非常适合快速浏览长视频。通义插件也可以总结视频，但是使用的是录音形式，不是直接视频弹出直接总结的 | Chrome | 适用于需要快速获取视频内容的用户。 | [NoteGPT](https://chrome.google.com/webstore/detail/notegpt) | 阿觉 |
 | Termius | 这是一款SSH连接工具，界面简洁，基础版功能足够使用。 | macOS, Windows, Linux, iOS, Android | 适用于需要SSH连接的用户。 | [Termius](https://www.termius.com/) | 7啊七 |
-
+| excalidraw | 开源的手绘风格白板。支持协作，并采用端到端加密。 | Web | 适用于任何需要展示东西的人。 | [excalidraw](https://excalidraw.com/) | segment7 |
 

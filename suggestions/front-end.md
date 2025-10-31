@@ -68,3 +68,13 @@
   - 不要只沉浸在知识点学习中
   - 给自己设定具体目标，从简单demo开始动手实践
   - 循序渐进提高学习积极性
+
+## 其它推荐 
+### by segment7 
+  - 模仿优秀案例
+    - 用于嗅探网站技术栈的插件：[wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)
+  - 很fancy的动效库 
+    - [GSAP](https://gsap.com/) : A wildly robust JavaScript animation library built for professionals
+  - React  
+    - [React 路线图](https://roadmap.sh/react)
+    - [官方中文文档](https://zh-hans.react.dev/)
